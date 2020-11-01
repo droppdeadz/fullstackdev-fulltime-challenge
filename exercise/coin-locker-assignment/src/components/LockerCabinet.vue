@@ -171,23 +171,7 @@ export default {
     border: 1px solid #000;
     border-radius: 5px;
 
-    &.size-s {
-      // padding-top: 75%;
-    }
-
-    &.size-m {
-      // padding-top: 100%;
-    }
-
-    &.size-l {
-      // padding-top: 125%;
-    }
-
     .locker-cabinet-size {
-      // position: absolute;
-      // top: 50%;
-      // left: 50%;
-      // transform: translate(-50%, -50%);
       width: 100%;
       height: 100%;
     }
@@ -228,12 +212,6 @@ export default {
 
     h6 {
       text-decoration: underline;
-    }
-
-    .insert-list-group {
-      // display: flex;
-      // flex-wrap: wrap;
-      // justify-content: space-between;
     }
   }
 </style>
